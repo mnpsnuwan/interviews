@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02d97106-ba24-4c75-a01a-8f868f5514dd" name="Changes" comment="IM:DEV:Leetcode problems - arrays, int greedy and so on.">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/hash-map/TwoSum.java" afterDir="false" />
+    <list default="true" id="02d97106-ba24-4c75-a01a-8f868f5514dd" name="Changes" comment="IM:DEV:Leetcode problems - two sum using hash map.">
+      <change afterPath="$PROJECT_DIR$/leetcode/int/PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,7 @@
       <workItem from="1695280974861" duration="229000" />
       <workItem from="1696103821225" duration="56000" />
       <workItem from="1696400240413" duration="145000" />
-      <workItem from="1697518886289" duration="351000" />
+      <workItem from="1697518886289" duration="1618000" />
     </task>
     <task id="LOCAL-00001" summary="IM:DEV:Cracking the coding interview - Permutation">
       <option name="closed" value="true" />
@@ -106,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695281185155</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="IM:DEV:Leetcode problems - two sum using hash map.">
+      <option name="closed" value="true" />
+      <created>1697519298910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697519298910</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="IM:DEV:Cracking the coding interview - Permutation" />
     <MESSAGE value="IM:DEV:Leetcode problems - arrays, int greedy and so on." />
-    <option name="LAST_COMMIT_MESSAGE" value="IM:DEV:Leetcode problems - arrays, int greedy and so on." />
+    <MESSAGE value="IM:DEV:Leetcode problems - two sum using hash map." />
+    <option name="LAST_COMMIT_MESSAGE" value="IM:DEV:Leetcode problems - two sum using hash map." />
   </component>
 </project>
