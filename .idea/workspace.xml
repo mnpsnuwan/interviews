@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02d97106-ba24-4c75-a01a-8f868f5514dd" name="Changes" comment="IM:DEV:Leetcode problems - two sum using hash map.">
-      <change afterPath="$PROJECT_DIR$/leetcode/int/PalindromeNumber.java" afterDir="false" />
+    <list default="true" id="02d97106-ba24-4c75-a01a-8f868f5514dd" name="Changes" comment="IM:DEV:Leetcode problems - Palindrome Number without converting integer to string.">
+      <change afterPath="$PROJECT_DIR$/leetcode/string/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +32,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -40,24 +47,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/#IMPORTANT/PROJECTS/#IMPORTANT/MATRIX/FZ/#PROJECT/TRUNK&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/GIT/interviews",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GIT\interviews" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="interviews" />
@@ -87,7 +99,9 @@
       <workItem from="1695280974861" duration="229000" />
       <workItem from="1696103821225" duration="56000" />
       <workItem from="1696400240413" duration="145000" />
-      <workItem from="1697518886289" duration="1618000" />
+      <workItem from="1697518886289" duration="1718000" />
+      <workItem from="1698645428738" duration="85000" />
+      <workItem from="1698645553761" duration="398000" />
     </task>
     <task id="LOCAL-00001" summary="IM:DEV:Cracking the coding interview - Permutation">
       <option name="closed" value="true" />
@@ -113,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697519298910</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="IM:DEV:Leetcode problems - Palindrome Number without converting integer to string.">
+      <option name="closed" value="true" />
+      <created>1697523439313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697523439313</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +145,7 @@
     <MESSAGE value="IM:DEV:Cracking the coding interview - Permutation" />
     <MESSAGE value="IM:DEV:Leetcode problems - arrays, int greedy and so on." />
     <MESSAGE value="IM:DEV:Leetcode problems - two sum using hash map." />
-    <option name="LAST_COMMIT_MESSAGE" value="IM:DEV:Leetcode problems - two sum using hash map." />
+    <MESSAGE value="IM:DEV:Leetcode problems - Palindrome Number without converting integer to string." />
+    <option name="LAST_COMMIT_MESSAGE" value="IM:DEV:Leetcode problems - Palindrome Number without converting integer to string." />
   </component>
 </project>
