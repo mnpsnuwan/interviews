@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02d97106-ba24-4c75-a01a-8f868f5514dd" name="Changes" comment="IM:DEV:Leetcode problems - Palindrome Number without converting integer to string.">
-      <change afterPath="$PROJECT_DIR$/leetcode/string/FizzBuzz.java" afterDir="false" />
+    <list default="true" id="02d97106-ba24-4c75-a01a-8f868f5514dd" name="Changes" comment="IM:DEV:Leetcode problems - Fizz Buzz Easy Problem.">
+      <change afterPath="$PROJECT_DIR$/leetcode/hash-map/RansomNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/linked-list/MiddleOfTheLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +102,7 @@
       <workItem from="1696400240413" duration="145000" />
       <workItem from="1697518886289" duration="1718000" />
       <workItem from="1698645428738" duration="85000" />
-      <workItem from="1698645553761" duration="398000" />
+      <workItem from="1698645553761" duration="2732000" />
     </task>
     <task id="LOCAL-00001" summary="IM:DEV:Cracking the coding interview - Permutation">
       <option name="closed" value="true" />
@@ -135,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697523439313</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="IM:DEV:Leetcode problems - Fizz Buzz Easy Problem.">
+      <option name="closed" value="true" />
+      <created>1698646098490</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698646098490</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +155,7 @@
     <MESSAGE value="IM:DEV:Leetcode problems - arrays, int greedy and so on." />
     <MESSAGE value="IM:DEV:Leetcode problems - two sum using hash map." />
     <MESSAGE value="IM:DEV:Leetcode problems - Palindrome Number without converting integer to string." />
-    <option name="LAST_COMMIT_MESSAGE" value="IM:DEV:Leetcode problems - Palindrome Number without converting integer to string." />
+    <MESSAGE value="IM:DEV:Leetcode problems - Fizz Buzz Easy Problem." />
+    <option name="LAST_COMMIT_MESSAGE" value="IM:DEV:Leetcode problems - Fizz Buzz Easy Problem." />
   </component>
 </project>
